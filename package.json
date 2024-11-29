@@ -15,7 +15,7 @@
     "core-js": "^3.6.5",
     "date-fns": "^2.15.0",
     "googleapis": "^56.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.27.0",
     "mongoose": "^5.9.26",
     "typescript": "^3.9.7",
